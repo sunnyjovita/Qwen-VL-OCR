@@ -1,0 +1,396 @@
+{
+    "BC_file_page1.png": {
+        "Kantor Pabean Pengawas": {
+            "Nama": "SAKAI HEAVY INDUSTRIES, LTD.",
+            "Alamat": "1-9-9 SHIBADAIMON MINATO-KU TOKYO 105-0012 JAPAN"
+        },
+        "Kantor Pabean Bongkar": {
+            "Nama": "KPU BEA DAN CUKAI TIPE A",
+            "Alamat": "UNIAN JENIS BARANG (TERMASUK MEREK, Tipe, spesifikasi wajib) - Negara Asal Barang"
+        },
+        "Nomor Pengajuan": "0001601300320240920000341",
+        "Tanggal Pengajuan": "25-09-2024",
+        "DARI KAWASAN PABEAN UNTUK DITIMBUN DI PUSAT LOGISTIK BERIKAT": {
+            "BC 1.6": {
+                "PENGIRIM": {
+                    "1. Nama": "SAKAI HEAVY INDUSTRIES, LTD.",
+                    "2. Alamat": "1-9-9 SHIBADAIMON MINATO-KU TOKYO 105-0012 JAPAN",
+                    "C. Nomor & Tanggal Pendafaran": {
+                        "Nomor": "600552",
+                        "Tanggali": "25-09-2024"
+                    }
+                },
+                "PENJAMU": {
+                    "16. Nama Sarana Pengangkut & No. Voy/Flight dan Tujuan": "LONG BEACH EXPRESS, 0845, LIBERIA",
+                    "17. Perikiran Tgl.": "14-09-2024",
+                    "18. Pelabuhan Muat": "YOKOHAMA",
+                    "19. Pelabuhan Transit": "TANJUNG PRIOK",
+                    "20. Pelabuhan Tujuan": "TANJUNG PRIOK"
+                },
+                "PENGUSAHA PLB/PDPLB": {
+                    "5. NPWP": "01300326406000",
+                    "6. Nama": "PUNNAR JAYA",
+                    "7. Alamat": "JL. RAYA CAKUNG GILINCING KM 1.5, CAKUNG BARAT, CAKUNG",
+                    "11. Alamat": "EIJP INDUSTRIAL PARK LOT 6G, SUKARESMI, CIKARANG SELATAN, KAB. BEKASI, JAWA BARAT, 17857",
+                    "12. Nama": "PT. SAKAI INDONESIA",
+                    "13. Alamat": "JL. RAYA CAKUNG GILINCING KM 1.5, CAKUNG BARAT, CAKUNG",
+                    "26. Tempat Penimbunan": "EX. LAP BOLA (AIRIN,PT)",
+                    "27. Valuta": "JPY",
+                    "28. Nilai": "CIF 12,791,953,00"
+                },
+                "PEMILIK BARANG": {
+                    "9. Nama": "PT. SAKAI INDONESIA",
+                    "10. Alamat": "EIJP INDUSTRIAL PARK LOT 6G, SUKARESMI, CIKARANG SELATAN, KAB. BEKASI, JAWA BARAT, 17857",
+                    "29. Nomor, Ukuran, dan Tipe Peti Kemas": "FTA1595385 20 FOL",
+                    "30. Jumlah, Jenis, dan Merk": "11 PACKAGE, Tanpa Merk",
+                    "31. Berat Kotak (Kg)": "5,810,0000",
+                    "32. Berat Bersih (Kg)": "5,107,0000",
+                    "33. No": "34. - Pos Tarif/HS - Unian Jenis Barang (termasuk Merek, Tipe, spesifikasi wajib) - Negara Asal Barang",
+                    "35. Keterangan": "Kategori Barang - Facilitas & No. Urut",
+                    "36. Tarif BM": "37. - Jumlah & Jenis saulan Barang - Berat Bersih (Kg) - Jumlah & Jenis Kemasan",
+                    "unstructured_0": "38. - Nilai - Jenis Nilai"
+                },
+                "PPJK": {
+                    "11. NPWP": "01300326406000",
+                    "12. Nama": "PUNNAR JAYA",
+                    "13. Alamat": "JL. RAYA CAKUNG GILINCING KM 1.5, CAKUNG BARAT, CAKUNG",
+                    "26. Tempat Penimbunan": "EX. LAP BOLA (AIRIN,PT)",
+                    "27. Valuta": "JPY",
+                    "28. Nilai": "CIF 12,791,953,00"
+                },
+                "D. UNTUK PEJABAT BEA DAN CUKAI": {
+                    "unstructured_1": "Rangkap ke-1, 2, 3, 4 untuk Pengusaha PLB/PDPLB/PPJK dan Kantor Pabean"
+                }
+            }
+        }
+    },
+    "BC_file_page3.png": {
+        "Kantor Pabean": "KPPBC TMP A JAKARTA",
+        "Nomor Pengajuan": "0000160130032040920000341",
+        "Tanggal Pengajuan": "25-09-2024",
+        "Nomor Pendataan": "600552",
+        "Tanggal Pendataan": "25-09-2024",
+        "unstructured_0": "LEMBAR LANJUTAN PEMBERTAHUAN PABEAN PENGELUARAN BARANG DARI KAWASAN PABEAN UNTUK DITIMBUN DI PUSAT LOGISTIK BERIKAT BC.1.6"
+    },
+    "BC_file_page2.png": {
+        "Kantor Pabean": "KPPBC TMP A JAKARTA",
+        "Nomor Pengajuan": "0001601300220240920000341",
+        "Tanggal Pengajuan": "25-09-2024",
+        "Nomor Pendataan": "600552",
+        "Tanggal Pendataan": "25-09-2024",
+        "No.": [
+            {
+                "Pos Tarif/HS": "84812090",
+                "Uraian Jenis Barang (termasuk Merek, Tipe, spesifikasi wajib)": "- Negara Asal Barang",
+                "Keterangan": "- Kategori Barang - Fasilitas & No. Ufit",
+                "Tarif BM": "8M 5% 100% DTO",
+                "Jumlah & Jenis satuan Barang": "- Berat Bersih (Kg) - Jumlah & Jenis NilaI",
+                "CIF": "180,710.79",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "84136900",
+                "Kode Brg.": "-",
+                "VALVE, Merk.": "-",
+                "Tipe": "4223-41000-0",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "471,455.73",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "87089930",
+                "Kode Brg.": "-",
+                "PEDAL COVER, Merk.": "-",
+                "Tipe": "4416-54000-0",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "4,843.48",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "90268000",
+                "Kode Brg.": "-",
+                "FUEL GAUGE UNIT, Merk.": "-",
+                "Tipe": "4417-99000-0",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "61,370.75",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "84839011",
+                "Kode Brg.": "-",
+                "COLLUM SHAFT, Merk.": "-",
+                "Tipe": "4422-08000-0",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "420,179.06",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "70091000",
+                "Kode Brg.": "-",
+                "MIRROR, Merk.": "-",
+                "Tipe": "4710-50000-0",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "76,131.82",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "90328939",
+                "Kode Brg.": "-",
+                "THERMO SENDING UNIT, Merk.": "-",
+                "Tipe": "4910-59000-0",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "21,419.60",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "84314950",
+                "Kode Brg.": "-",
+                "COMBINATION METER, Merk.": "-",
+                "Tipe": "4917-51000-0",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "961,525.25",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "84314950",
+                "Kode Brg.": "-",
+                "CONTROLLER (OLD 4916-12000-3), Merk.": "-",
+                "Tipe": "4916- 12000-4",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "1,008,445.79",
+                "Kode": "TIP"
+            },
+            {
+                "Pos Tarif": "90268000",
+                "Kode Brg.": "-",
+                "LEVEL GAUGE ASSY, Merk.": "-",
+                "Tipe": "4219-89000-1",
+                "Ukuran.": "-",
+                "Spesifikasi lain": "BAIK DAN BARU",
+                "Jenis NilaI": "-",
+                "CIF": "89,248.32",
+                "Kode": "TIP"
+            }
+        ]
+    },
+    "BC_file_page6.png": {
+        "Kantor Pabean": "KPPBC TMP A JAKARTA",
+        "Nomor Pengajuan": "0001601300320240920000341",
+        "Tanggalk Pengajuan": "25-09-2024",
+        "Nomor Pendataan": "600552",
+        "Tanggal Pendataan": "25-09-2024",
+        "No.": [
+            {
+                "Pos Tarif/HS": "34",
+                "Uraian Jenis Barang (termasuk Merek, Tipe, spesifikasi wajib)": "- Negara Asal Barang",
+                "Keterangan": "- Uraian Jenis Barang (termasuk Merek, Tipe, spesifikasi wajib)",
+                "Tarif BM": "- Kategori Barang - Fasilitas & No. Urah",
+                "Jumlah & Jenis satuan Barang": "- Berat Bersih (Kg) - Jumlah & Jenis - Jenis Nilai"
+            }
+        ],
+        "Pos Tarif": [
+            {
+                "No.": "50",
+                "Kode Brg.": "HOSE, Merk.: Type: 1207-03055-1, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "2.343.52",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "0.660 Kg",
+                "Quantity": "3.000 PIECE",
+                "Unit": "PK"
+            },
+            {
+                "No.": "51",
+                "Kode Brg.": "HOSE, Merk.: Type: 1207-03056-0, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "2.542.07",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "0.120 Kg",
+                "Quantity": "3.000 PIECE",
+                "Unit": "PK"
+            },
+            {
+                "No.": "52",
+                "Kode Brg.": "HOSE, Merk.: Type: 1207-03058-1, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "10.745.90",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "1.080 Kg",
+                "Quantity": "3.000 PIECE",
+                "Unit": "PK"
+            },
+            {
+                "No.": "53",
+                "Kode Brg.": "HOSE, Merk.: Type: 1207-61172-0, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "1.058.95",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "0.960 Kg",
+                "Quantity": "6.000 PIECE",
+                "Unit": "PK"
+            },
+            {
+                "No.": "54",
+                "Kode Brg.": "CHAIN, Merk.: Type: 3419-04002-0, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "1.341.73",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "1.200 Kg",
+                "Quantity": "1.000 PIECE",
+                "Unit": "PK"
+            },
+            {
+                "No.": "55",
+                "Kode Brg.": "SPRING WASHER, Merk.: Type: 2170-08020-0, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "80.22",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "20.000 Kg",
+                "Quantity": "20.000 PIECE",
+                "Unit": "PC"
+            },
+            {
+                "No.": "56",
+                "Kode Brg.": "PROTECTOR, Merk.: Type: 1200-05003-0, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "264.74",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "0.300 Kg",
+                "Quantity": "3.000 PIECE",
+                "Unit": "PK"
+            },
+            {
+                "No.": "57",
+                "Kode Brg.": "FUSE, Merk.: Type: 4909-55003-0, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "64.18",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "0.020 Kg",
+                "Quantity": "2.000 PIECE",
+                "Unit": "PK"
+            },
+            {
+                "No.": "58",
+                "Kode Brg.": "CLAMP, Merk.: Type: 3416-22129-0, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "18.050.22",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "1.920 Kg",
+                "Quantity": "8.000 PIECE",
+                "Unit": "PK"
+            },
+            {
+                "No.": "59",
+                "Kode Brg.": "CLAMP (NCV), Merk.: Type: 1207-36020-0, Ukuran: -, Spesifikasi lain: BAiK DAN BARu",
+                "CIF": "3.427.54",
+                "Kode": "TIP",
+                "Description": "BARANG UNTUK DITIMBUN",
+                "Weight": "0.470 Kg",
+                "Quantity": "1.000 PIECE",
+                "Unit": "PK"
+            }
+        ]
+    },
+    "BC_file_page7.png": {
+        "Kantor Pabean": "KPPBC TMP A JAKARTA",
+        "Nomor Pengajuan": "0001601300320240920000341",
+        "Tanggalk Pengajuan": "25-09-2024",
+        "Nomor Pendafiran": "600552",
+        "Tanggalk Pendafiran": "25-09-2024",
+        "No.": [
+            {
+                "Kode Dokumen": "380",
+                "Nama Dokumen": "INVOICE",
+                "Nomor dan Tanggal Dokumen": "No. CKD-77078",
+                "Dilampirkan": "Tgl. 28-08-2024"
+            },
+            {
+                "Kode Dokumen": "704",
+                "Nama Dokumen": "MASTER B/L",
+                "Nomor dan Tanggal Dokumen": "No. HLCUTYO240767275",
+                "Dilampirkan": "Tgl. 02-09-2024"
+            },
+            {
+                "Kode Dokumen": "705",
+                "Nama Dokumen": "B/L",
+                "Nomor dan Tanggal Dokumen": "No. 17610046317",
+                "Dilampirkan": "Tgl. 02-09-2024"
+            },
+            {
+                "Kode Dokumen": "860",
+                "Nama Dokumen": "ELECTRONIC CERTIFICATE OF ORIGIN (E-CO)",
+                "Nomor dan Tanggal Dokumen": "No. 240228085171901805",
+                "Dilampirkan": "Tgl. 02-09-2024"
+            }
+        ],
+        "PENGUSAHA PLB/PDPLB/PPJK": {
+            "Tempat, Tanggal": "JAKARTA, 25-09-2024",
+            "Nama Lengkap": "RIYANTO",
+            "Jabatan": "PPJK",
+            "Tanda Tangan dan Stempel Perusahaan": ""
+        }
+    },
+    "BC_file_page5.png": {
+        "Kantor Pabean": "KPPBC TMP A JAKARTA",
+        "Nomor Pengajuan": "0001601300320240920000341",
+        "Tanggul Pengajuan": "25-09-2024",
+        "Nomor Pendataan": "600552",
+        "Tanggul Pendataan": "25-09-2024",
+        "No.": [
+            {
+                "34": {
+                    "Pos Tarif/HS": "87085019",
+                    "Ukuran": "-",
+                    "Kode Brg.:": "DRIVE SHAFT, Merk.:",
+                    "Tipe:": "4412-62000-0",
+                    "Spesifikasi lain:": "BAIK DAN BARU",
+                    "Jenis Nilai": "Nila"
+                },
+                "35": {
+                    "Keterangan": "Uraian Jenis Barang (termasuk Merek, Tipe, spesifikasi wajib)",
+                    "Kategori Barang": "Fasilitas & No. Urah",
+                    "Tarif BM": "BARANG UNUTK DITIMBUN",
+                    "Satuan Barang": "Berat Bersih (Kg)",
+                    "Jumlah & Jenis": "Jumlah & Jenis Nila"
+                },
+                "36": {
+                    "CIF": "318,574.37",
+                    "Kode": "TIP",
+                    "BM 9% 100% DTO": "12.000 PIECE (PCE)",
+                    "190.800 Kg": "180.000 Kg",
+                    "CIF:": "10,348.79",
+                    "BM 7.5% 100% DTO": "24.000 PIECE (PCE)",
+                    "136.800 Kg": "136.000 Kg",
+                    "BM 5% 100% DTO": "3.000 PIECE (PCE)",
+                    "4.000 Kg": "4.000 Kg",
+                    "0.600 Kg": "0.600 Kg",
+                    "0.550 Kg": "0.550 Kg"
+                }
+            }
+        ]
+    },
+    "BC_file_page4.png": {
+        "Kantor Pabean": "KPPBC TMP A JAKARTA",
+        "Nomor Pengajuan": "000016030032040920000341",
+        "Tanggalk Pengajuan": "25-09-2024",
+        "Nomor Pendataan": "600552",
+        "Tanggalk Pendataan": "25-09-2024",
+        "unstructured_0": "LEMBAR LANJUTAN PEMBERTAHUAN PABEAN PENGELUJURAN BARANG DARI KAWASAN PABEAN UNTUK DITIMBUN DI PUSAT LOGISTIK BERIKAT BC.1.6"
+    }
+}
